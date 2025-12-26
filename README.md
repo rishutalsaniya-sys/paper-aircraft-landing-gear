@@ -49,9 +49,9 @@ Editable CAD files are provided in STEP format to allow modification and experim
 
 Material: PLA or lightweight PLA
 
-Infill: 5–10%
+Infill: 0%
 
-Layer height: 0.2 mm
+Layer height: 0.28 mm
 
 Supports: Not required
 
